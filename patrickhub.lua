@@ -1,6 +1,6 @@
 
 -- Patrick Hub 🔑
--- Key: catuscatuscatus
+
 
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer

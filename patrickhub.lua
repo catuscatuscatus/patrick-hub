@@ -105,4 +105,4 @@ KeyBox.FocusLost:Connect(function(enterPressed)
         checkKey()
     end
 end)
-Key: catuscatuscatus
+
